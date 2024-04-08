@@ -1,25 +1,13 @@
 
 
 
-[catbug88@home:~$
-================](/)
-
-[Archive
--------](/archive)
-[About
------](/about)
-
-
-
-
-
 
 
 Introduction to Jupyter Notebooks - set-up, user-guide, and best practices
 --------------------------------------------------------------------------
 
 
-12 Jun 2020
+
 
 
 
