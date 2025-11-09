@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Anshul Blog",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/feed.json",
+  "description": "This is were I blog stuff, I'll keep you posted!",
+  "favicon": "http://localhost:1313//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Anshul Kumar",
+    "url": "http://localhost:1313/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
