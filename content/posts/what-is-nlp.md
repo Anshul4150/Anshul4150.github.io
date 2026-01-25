@@ -1,7 +1,7 @@
 +++
 date = '2025-08-09T17:43:51+05:30'
 draft = false
-title = 'What Is NLP? A Practical, End-to-End View'
+title = 'What Is NLP?'
 +++
 
 # What Is NLP? A Practical, End-to-End View
