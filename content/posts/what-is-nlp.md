@@ -1,3 +1,9 @@
++++
+date = '2025-08-09T17:43:51+05:30'
+draft = false
+title = 'What Is NLP? A Practical, End-to-End View'
++++
+
 # What Is NLP? A Practical, End-to-End View
 
 Natural Language Processing (NLP) is the area of AI that enables machines to **understand, generate, and act using human language**. Language can appear as text, speech, or even structured communication like code.
