@@ -79,4 +79,4 @@ Once a vector is generated, this module handles the actual intervention[cite: 15
 #### 3. Vector Merging Techniques
 To enable the multi-objective use cases mentioned earlier, EasyEdit2 incorporates a **Vector Merging Module**[cite: 151]. Inspired by model merging techniques, it uses strategies like **Linear**, **TIES**, and **DARE-TIES** to mathematically fuse multiple steering vectors into one[cite: 152]. This allows for the simultaneous application of different behavioral controls (e.g., Safety + Sentiment) without the vectors interfering destructively with each other[cite: 152, 193].
 
-*Source: arXiv:2504.15133*
+*Source: * https://arxiv.org/abs/2504.15133
